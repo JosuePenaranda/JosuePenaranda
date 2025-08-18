@@ -13,7 +13,7 @@ I am open to new opportunities and challenges that the future may bring.
 ---
 
 ## 🖥️ Programming Languages
-<p align="left">
+<p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
@@ -23,19 +23,22 @@ I am open to new opportunities and challenges that the future may bring.
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
   
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="40" height="40"/>
 </p>
 
 ---
 
 ## 🛠️ Tools & IDEs
-<p align="left">
+<p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="40" height="40"/>
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="40" height="40"/>
   
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
-  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/CLion_Icon.svg" alt="CLion" width="40" height="40"/>
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/clion/clion-original.svg" alt="CLion" width="40" height="40"/>
+
 </p> 
 
 ---
