@@ -28,6 +28,24 @@ I am open to new opportunities and challenges that the future may bring.
 </p>
 
 ---
+<h2 align="center">🎓 Certificaciones</h2>
+
+<p align="center">
+  <a href="URL_DE_LA_CERTIFICACION_1" target="_blank" style="text-decoration: none; color: inherit;">
+    <img src="URL_DEL_LOGO_1" alt="Certificación 1" width="80" height="80"/><br>
+    Certificación 1 🎓
+  </a>
+  
+  &nbsp;&nbsp;&nbsp; <!-- Espacio entre certificaciones -->
+
+  <a href="URL_DE_LA_CERTIFICACION_2" target="_blank" style="text-decoration: none; color: inherit;">
+    <img src="URL_DEL_LOGO_2" alt="Certificación 2" width="80" height="80"/><br>
+    Certificación 2 🎓
+  </a>
+
+  <!-- Agrega más certificaciones aquí -->
+</p>
+---
 
 ## 🛠️ Tools & IDEs
 <p align="center">
