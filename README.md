@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Josué Peñaranda 👋</h1>
+<h1 align="center">Hi, I'm Josué Peñaranda </h1>
 
 <p align="center">
   <b>Systems Engineering Student · National University</b><br>
