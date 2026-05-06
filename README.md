@@ -42,8 +42,9 @@
 |---|---|
 | 🐍 Python Essentials 1 | Cisco NetAcad |
 | 🛡️ Network Defense | Cisco NetAcad |
+| 🖥️ Networking Basics | Cisco NetAcad |
 | 🔐 Junior Cybersecurity Analyst | Cisco NetAcad |
-| 💼 Working in a Digital World: Professional Skills | Cisco NetAcad |
+| 💼 Working in a Digital World: Professional Skills | IBM |
 | 🤖 Artificial Intelligence Fundamentals | IBM |
 
 ---
@@ -92,6 +93,10 @@
 <p align="center">
   <a href="mailto:josue.pena20191@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-josue.pena20191%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/josu%C3%A9-pe%C3%B1aranda-alvarado-846836376/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Josué%20Peñaranda-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
