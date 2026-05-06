@@ -1,78 +1,102 @@
-# Josué Peñaranda  
+<h1 align="center">Hi, I'm Josué Peñaranda 👋</h1>
 
-💻 **Welcome to my GitHub portfolio!**  
+<p align="center">
+  <b>Systems Engineering Student · National University</b><br>
+  <i>Passionate about Software, AI & Cybersecurity</i>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=378ADD&center=true&vCenter=true&width=435&lines=Software+Developer+in+Training;Cybersecurity+Enthusiast;AI+%26+Innovation+Explorer;Open+to+New+Opportunities" alt="Typing SVG" />
+</p>
 
 ---
 
 ## 👨‍💻 About Me
-I am currently studying Systems Engineering at the **National University**.  
-I am a dedicated person, committed to meeting goals and challenges with effort and passion.  
-I have a strong interest in **software systems, future innovations, artificial intelligence, and cybersecurity**.  
-I am open to new opportunities and challenges that the future may bring.  
+
+- 🎓 Studying **Systems Engineering** at the National University
+- 💡 Strong interest in **software systems, AI, and cybersecurity**
+- 🤝 Dedicated, organized, and teamwork-oriented
+- 🚀 Open to new opportunities and challenges
 
 ---
 
 ## 🖥️ Programming Languages
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
-  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
-  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,html,css,r&theme=dark" />
 </p>
-
----
-## 🎓 certifications
-
-- Python Essentials 1
-- Network Defense
-- Junior Cybersecurity Analyst
-- Working in a Digital World: Professional Skills
-- Artificial Intelligence Fundamentals
 
 ---
 
 ## 🛠️ Tools & IDEs
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=visualstudio,idea,vscode,clion&theme=dark" />
+</p>
 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="40" height="40"/>
-  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
+---
 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/clion/clion-original.svg" alt="CLion" width="40" height="40"/>
+## 🎓 Certifications
 
-</p> 
+| Certificate | Issuer |
+|---|---|
+| 🐍 Python Essentials 1 | Cisco NetAcad |
+| 🛡️ Network Defense | Cisco NetAcad |
+| 🔐 Junior Cybersecurity Analyst | Cisco NetAcad |
+| 💼 Working in a Digital World: Professional Skills | Cisco NetAcad |
+| 🤖 Artificial Intelligence Fundamentals | IBM |
 
 ---
 
 ## 🧩 Skills
-- Flexible  
-- Organized  
-- Teamwork oriented  
-- Dedicated and hardworking  
-- Patient  
-- Software Development  
-- Object-Oriented Programming & Design Patterns  
-- Problem Solving  
-- Cybersecurity 
+
+<table>
+  <tr>
+    <td><b>💻 Technical</b></td>
+    <td><b>🤝 Soft Skills</b></td>
+  </tr>
+  <tr>
+    <td>
+      ✔ Software Development<br>
+      ✔ Object-Oriented Programming & Design Patterns<br>
+      ✔ Problem Solving<br>
+      ✔ Cybersecurity
+    </td>
+    <td>
+      ✔ Flexible & Adaptable<br>
+      ✔ Organized<br>
+      ✔ Teamwork Oriented<br>
+      ✔ Dedicated and Hardworking<br>
+      ✔ Patient
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 📊 GitHub Stats
-![Josue’s GitHub stats](https://github-readme-stats.vercel.app/api?username=JosuePenaranda&show_icons=true&theme=tokyonight)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JosuePenaranda&layout=compact&theme=tokyonight)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JosuePenaranda&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosuePenaranda&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JosuePenaranda&theme=tokyonight&hide_border=true&border_radius=10" height="160"/>
+</p>
 
 ---
 
 ## 📬 Contact Me
-- ✉️ Email: [josue.pena20191@gmail.com](mailto:josue.pena20191@gmail.com)
-  
 
+<p align="center">
+  <a href="mailto:josue.pena20191@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-josue.pena20191%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=JosuePenaranda&style=flat-square&color=378ADD" alt="Profile views"/>
+</p>
